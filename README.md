@@ -1,1 +1,1 @@
-# dashboard.github.io
+# sensor.github.io
